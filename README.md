@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+湖南工商大学优秀作品展示系统
 
 * Ruby version
+
+2.3.7
 
 * System dependencies
 
@@ -13,7 +12,12 @@ Things you may want to cover:
 
 * Database creation
 
+RAILS_ENV=production rake db:create
+
 * Database initialization
+
+RAILS_ENV=production rake db:migrate
+RAILS_ENV=production rake db:seeds
 
 * How to run the test suite
 
