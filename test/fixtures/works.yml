@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  student_names: MyText
+  content: MyText
+  enroll_year: 1
+  major: 1
+  category: 1
+  client_type: 1
+
+two:
+  name: MyString
+  student_names: MyText
+  content: MyText
+  enroll_year: 1
+  major: 1
+  category: 1
+  client_type: 1
